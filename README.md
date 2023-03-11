@@ -52,4 +52,4 @@ I'm just a student from MEP major of Debsirin Nonthaburi School and I'm also a F
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krasuang&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krasuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
