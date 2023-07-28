@@ -22,6 +22,8 @@ I'm just a student from MEP major of Debsirin Nonthaburi School and I'm also a F
 - PHP
 - HTML
 - CSS
+- React
+- TailwindCSS
 - C++
 - C#
 - JavaScript
