@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm just a student from MEP major of Debsirin Nonthaburi School and I'm also a Flight Simmer and Cosplayer!
+I'm just a Full Stack Developer and I'm also a Flight Simmer and Cosplayer!
 
 ### What language do I coded in?🤔
 
